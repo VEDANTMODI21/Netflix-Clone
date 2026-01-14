@@ -1,4 +1,4 @@
-#NETFLIX CLONE
+##NETFLIX CLONE
 
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
